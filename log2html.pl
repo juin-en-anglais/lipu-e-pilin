@@ -1,4 +1,4 @@
-# Script from Panike: https://gist.github.com/panike/811354.js
+# Script forked from Panike: https://gist.github.com/panike/811354
 
 
 sub new_hl {
